@@ -1,4 +1,3 @@
-### Simon Bradlow
 ### Anonymous (Lexically-scoped) Functions
 
 This project implements anonymous functions *without* the use of Lambda.
