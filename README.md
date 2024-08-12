@@ -1,5 +1,9 @@
 ### Anonymous (Lexically-scoped) Functions
 
+This project was my final project for a class in Compiler Construction, and thus, the necessary support code for compilation has been redacted at the request of my professor. Other support code and class files can be found within the repo.
+
+*ALL CODE WRITTEN BY ME, PERSONALLY, CAN BE FOUND IN `compiler.py`*
+
 This project implements anonymous functions *without* the use of Lambda.
 
 Within compiler.py, there is only one new pass, 'convert-closures.'
